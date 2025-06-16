@@ -1,8 +1,8 @@
 ## Hi there people.
-👨🏻‍💻 I´m currently working as a IT support & software developer in Humantech Software based in malaga.
-🎉 I have experience as a fullstack developer web (angular, react, asp.net), web scraps with playwright and some experience in moodle apps.
-⚙️ I´m learning ASP.NET core with MVC.
-📫 You can reach me in: naejbravo@gmail.com.
+- 👨🏻‍💻 I´m currently working as a IT support & software developer in Humantech Software based in malaga.
+- 🎉 I have experience as a fullstack developer web (angular, react, asp.net), web scraps with playwright and some experience in moodle apps.
+- ⚙️ I´m learning ASP.NET core with MVC.
+- 📫 You can reach me in: naejbravo@gmail.com.
 
 <!--
 **naejbravo/naejbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

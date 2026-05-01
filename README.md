@@ -26,7 +26,7 @@ Full-stack .NET developer building **production SaaS systems**.
 
 ---
 
-## 📫 Contactç
+## 📫 Contact
 
 - 📧 Email: contact@bravojc.com
 - 🌐 https://bravojc.com  

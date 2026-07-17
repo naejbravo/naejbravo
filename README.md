@@ -1,33 +1,17 @@
-# Hi, I'm Jean Bravo 👋
+### 🚀 What I'm building
 
-Full-stack .NET developer building **production SaaS systems**.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **WebRRHHpro** | .NET · Blazor · MySQL · Cloudflare | Multi-tenant HR SaaS with AI-powered OCR document classification, digital signatures & real-time collaboration |
+| **WebCAEpro** | .NET · Blazor · MySQL · Docker | Workforce management platform with GDPR-compliant digital signature workflows, REST API & multi-brand support |
+| **WeSignPro** | .NET · SignalR · JWT · PDF | Document signing system with OTP verification, audit trail & automated PDF workflows |
+| **PsicoEval** | .NET · Blazor · MySQL · Caddy | Production psychosocial evaluation system deployed via Docker + Cloudflare tunnel on ARM64 |
+| **Hermes Agent** | Python · Qdrant · Mem0 · LLMs | Self-hosted autonomous AI agent stack — semantic memory, multi-model routing, multi-platform messaging |
 
-**Focus:** Multi-tenant architectures · Real-time systems · Document workflows
+### 📫 Contact
 
----
+- Portfolio → [bravojc.com](https://bravojc.com)
+- LinkedIn → [/in/jean-bravo](https://linkedin.com/in/jean-bravo)
+- Email → contact@bravojc.com
 
-## ⚙️ Stack
-
-**Backend:** .NET, ASP.NET Core, EF Core, Clean Architecture  
-**Frontend:** React, Next.js, JavaScript  
-**Data & Cloud:** PostgreSQL, Docker, GCP, CI/CD  
-**Realtime:** SignalR  
-**Security:** RBAC, JWT, digital signatures  
-
----
-
-## 🚀 Featured Work
-
-- 🏢 Multi-tenant HR SaaS platform (RBAC, tenant isolation, SignalR)
-- 📄 Document signing system (OTP, audit trail, PDF workflows)
-- ⚙️ ERP system (in progress)
-
-👉 More at: https://bravojc.com
-
----
-
-## 📫 Contact
-
-- 📧 Email: contact@bravojc.com
-- 🌐 https://bravojc.com  
-- 💼 https://linkedin.com/in/jean-bravo  
+<sub>🔒 Most of my repositories are private — production SaaS and infrastructure code. Reach out if you want to know more.</sub>

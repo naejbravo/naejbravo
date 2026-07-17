@@ -6,7 +6,7 @@
 
 [![bravojc.com](https://img.shields.io/badge/-bravojc.com-1a1a1a?style=flat&logo=About.me&logoColor=white)](https://bravojc.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jean-bravo)
-[![Email](https://img.shields.io/badge/-contact@bravojc.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:contact@bravojc.com)
+[![Email](https://img.shields.io/badge/-contact@bravojc.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:naejbravo@gmail.com)
 
 <br/>
 
@@ -41,6 +41,6 @@ Security    →  RBAC · JWT · OTP · Digital signatures · 1Password CLI
 
 - Portfolio → [bravojc.com](https://bravojc.com)
 - LinkedIn → [/in/jean-bravo](https://linkedin.com/in/jean-bravo)
-- Email → contact@bravojc.com
+- Email → naejbravo@gmail.com
 
 <sub>🔒 Most of my repositories are private — production SaaS and infrastructure code. Reach out if you want to know more.</sub>

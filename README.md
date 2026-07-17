@@ -12,6 +12,6 @@
 
 - Portfolio → [bravojc.com](https://bravojc.com)
 - LinkedIn → [/in/jean-bravo](https://linkedin.com/in/jean-bravo)
-- Email → contact@bravojc.com
+- Email → naejbravo@gmail.com
 
 <sub>🔒 Most of my repositories are private — production SaaS and infrastructure code. Reach out if you want to know more.</sub>
